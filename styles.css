@@ -1,0 +1,67 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+  background: white;
+}
+
+/* Left-Side*/ 
+.logo { /*Done*/ 
+  padding-top: 0px;
+  width: 145px;
+  height: 120px;
+}
+.person-info{ /*Done*/ 
+  padding-right: 25px;
+
+}
+
+.name{ /*Done*/ 
+  color: rgb(32, 32, 146);
+  font-size: 14px;
+  line-height: 8px;
+  margin: 0px 0px 0px 10px;
+  width: 200px;
+
+}
+
+.title{ /*Done*/ 
+  color: rgb(32, 32, 146);
+  line-height: 6px;
+  font-size: 11px;
+  padding-top: -40px;
+}
+
+
+/*Right-side*/
+
+.right-side{ 
+  padding-right: 50px; 
+  padding-top: 70px;
+}
+.Address{
+  font-size: 10px;
+  line-height: 12px;
+  width: 90px; 
+  color: rgb(13, 13, 146);
+  border-left: 50px;
+}
+
+.Phone{
+  line-height: 8px; 
+}
+
+
+/*Card*/
+.card { /*Done*/ 
+  width: 350px;
+  height: 175px;
+  margin: 100 auto;
+
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  background: white; 
+  border: 1px solid black; 
+
+}
+
+
